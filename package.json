@@ -1,0 +1,23 @@
+{
+  "name": "http-capture",
+  "version": "1.0.0",
+  "description": "A small node.js express application that captures incoming requests and writes them to a folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenzorm117/http-capture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincenzorm117/http-capture/issues"
+  },
+  "homepage": "https://github.com/vincenzorm117/http-capture#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
